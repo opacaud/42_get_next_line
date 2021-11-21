@@ -2,7 +2,7 @@
 
 ## Reading one line at a time from a file descriptor
 
-Always reading one line, entirely, but one only, one at a time, from a file descriptor, giving a BUFFER_SIZE that you determine in the command line through the flag: -D BUFFER_SIZE=32.
+Always reading one line at a time, entirely, from a file descriptor, giving a BUFFER_SIZE that you determine in the command line through the flag: -D BUFFER_SIZE=32.
 
 My program will read from the file descriptor 32 bytes at a time.
 - If the line is less than 32, it will fill the string which address you pass as a parameter, keep in another static string what was read but not part of the first line and return 1.
