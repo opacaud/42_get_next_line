@@ -1,4 +1,6 @@
-#  Project 01: 42_Get_next_line
+#  Project 01: 42_get_next_line
+
+## Reading one line at a time from a file descriptor.
 
 Always reading one line, entirely, but one only, one at a time, from a file descriptor, giving a BUFFER_SIZE that you determine in the command line through the flag: -D BUFFER_SIZE=32.
 
