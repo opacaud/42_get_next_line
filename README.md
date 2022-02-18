@@ -1,6 +1,11 @@
 #  Project 01: 42_get_next_line
 
 ## Reading one line at a time from a file descriptor
+</br>
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/get_next_line)](https://github.com/JaeSeoKim/badge42)
+</br>
+</br>
 
 Always reading one line at a time, entirely, from a file descriptor, giving a BUFFER_SIZE that you determine in the command line through the flag: -D BUFFER_SIZE=32.
 
