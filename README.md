@@ -3,7 +3,7 @@
 ## Reading one line at a time from a file descriptor
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2183105)](https://github.com/JaeSeoKim/badge42)
 </br>
 </br>
 
